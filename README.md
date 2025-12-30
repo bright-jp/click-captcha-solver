@@ -1,6 +1,6 @@
 # Click CAPTCHA Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/click-captcha)
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/click-captcha)
 
 Bright Dataの高度なCAPTCHA解決テクノロジーにより、Click CAPTCHAを簡単にバイパスできます。機械学習アルゴリズム、[自動IPローテーション](https://brightdata.jp/solutions/rotating-proxies)、および堅牢なプロキシインフラストラクチャを活用して、ターゲットサイトへのシームレスで一貫したアクセスを確保します。  
 
@@ -70,7 +70,7 @@ Bright DataのCAPTCHA Solverは、以下を含む幅広いCAPTCHAタイプをサ
 
 ## Advanced Customization  
 
-[Bright DataのCAPTCHA Solver](https://github.com/luminati-io/Captcha-solver)では、高度なカスタマイズにより、特定のシナリオ向けに解決ロジックを微調整できます。
+[Bright DataのCAPTCHA Solver](https://github.com/bright-jp/Captcha-solver)では、高度なカスタマイズにより、特定のシナリオ向けに解決ロジックを微調整できます。
 
 ### **Clickチャレンジ向けのカスタムオプション**  
 ```javascript
